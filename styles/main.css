@@ -1,7 +1,11 @@
 body {
   background-color: blueviolet; 
 }
+h1 { 
+  color: plum;
+  font-family: 'Cormorant Garamond', 'Proza libre';
+}
 p { 
-  color: mistyrose;
-  font-family: 'Proza Libre', sans-serif;
+  color: palevioletred;
+  font-family: 'Proza Libre', ' Cormorant Garamond';
 }
