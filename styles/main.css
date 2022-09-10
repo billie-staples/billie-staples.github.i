@@ -5,8 +5,10 @@ body {
 h1 { 
   color: plum;
   font-family: 'Cormorant Garamond', 'Proza libre';
+  font-size: large;
 }
 p { 
   color: palevioletred;
   font-family: 'Proza Libre', ' Cormorant Garamond';
+  font-size: medium;
 }
