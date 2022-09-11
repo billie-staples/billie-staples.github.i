@@ -10,6 +10,11 @@
   { 
   background-color: rgb(255, 166, 0);
 }}
+.thin-black-border {
+  border-color: black;
+  border-width: 5px;
+  border-style: solid;}
+  
 .smaller-image { 
   width: 100px}
 
