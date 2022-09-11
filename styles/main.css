@@ -14,7 +14,7 @@
   border-color: black;
   border-width: 5px;
   border-style: solid;}
-  
+
 .smaller-image { 
   width: 100px}
 
@@ -25,16 +25,16 @@ body {
 h1 { 
   color: rgb(231, 221, 249);
   font-family: 'Cormorant Garamond', 'Proza libre';
-  font-size: large;
+  font-size: xx-large;
   font-weight: bolder;
 }
 h2 {
   color:  rgb(231, 221, 249); 
   font-family:'Cormorant Garamond', 'Proza libre'; 
-  font-size: medium;
+  font-size: x-large;
 }
 p { 
   color: palevioletred;
   font-family: 'Proza Libre', ' Cormorant Garamond';
-  font-size: medium;
+  font-size: large;
 }
