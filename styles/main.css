@@ -1,4 +1,16 @@
- .smaller-image { 
+@media (max-height: 320px) {body 
+  { 
+  background-color: floralwhite;
+}}
+@media (max-height: 768px) {body 
+  { 
+  background-color: goldenrod;
+}}
+@media (max-height: 1200px) {body 
+  { 
+  background-color: rgb(255, 166, 0);
+}}
+.smaller-image { 
   width: 100px}
 
 body {
