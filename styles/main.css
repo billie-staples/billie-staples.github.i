@@ -10,6 +10,13 @@
   { 
   background-color: rgb(255, 166, 0);
 }}
+div { margin-top: 20px;
+  margin-bottom: 10px;
+  margin-left: 20px; 
+  margin-right: 10px;
+  background-color: bisque;
+  border-radius: 10px;
+}
 .thin-black-border {
   border-color: black;
   border-width: 5px;
