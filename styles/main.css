@@ -23,11 +23,11 @@ div { margin-top: 20px;
   border-style: solid;}
 
 .smaller-image { 
-  width: 100px}
+  width: 200px}
 
 body {
   background-color: rgb(200, 152, 251);
-  text-align: center;  
+  text-align: center;
 }
 h1 { 
   color: rgb(231, 221, 249);
