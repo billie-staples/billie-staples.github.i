@@ -34,14 +34,19 @@ h1 {
   font-family: 'Cormorant Garamond', 'Proza libre';
   font-size: xx-large;
   font-weight: bolder;
+  text-align: center;
 }
 h2 {
   color:  rgb(231, 221, 249); 
   font-family:'Cormorant Garamond', 'Proza libre'; 
   font-size: x-large;
+  font-weight: bolder;
+  text-align: center;
 }
 p { 
   color: palevioletred;
   font-family: 'Proza Libre', ' Cormorant Garamond';
   font-size: large;
+  font-weight: bolder;
+  text-align: center;
 }
