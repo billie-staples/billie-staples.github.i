@@ -2,7 +2,7 @@ div { margin-top: 20px;
   margin-bottom: 10px;
   margin-left: 20px; 
   margin-right: 10px;
-  background-color: bisque;
+  background-color: rgb(196, 254, 255);
   border-radius: 10px;
 }
 #footer {
