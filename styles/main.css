@@ -57,6 +57,7 @@ p {
 
 .bisque-background {
   background-color: bisque;
+  padding: 20px 5px 5px 20px;
 }
 @media (min-width: 320px) {body 
   { 
