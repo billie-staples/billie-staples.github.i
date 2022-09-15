@@ -51,6 +51,10 @@ p {
   text-align: center;
 }
 
+.pink-text [
+  color: pink;
+]
+
 .bisque-background {
   background-color: bisque;
 }
