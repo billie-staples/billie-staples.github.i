@@ -38,6 +38,9 @@ p {
   font-weight: bolder;
   text-align: center;
 }
+.gold-text [
+  color: gold;
+]
 @media (min-height: 320px) {body 
   { 
   background-color: floralwhite;
