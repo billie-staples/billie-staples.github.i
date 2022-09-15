@@ -5,6 +5,9 @@ div { margin-top: 20px;
   background-color: bisque;
   border-radius: 10px;
 }
+#footer {
+  background-color: brown;
+}
 .thin-black-border {
   border-color: black;
   border-width: 10px;
