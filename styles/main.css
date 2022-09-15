@@ -43,6 +43,7 @@ h2 {
   text-align: center;
 }
 p { 
+  word-wrap: break-word;
   color: rgb(49, 92, 93);
   font-family: 'Proza Libre', ' Cormorant Garamond';
   font-size: large;
