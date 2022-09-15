@@ -6,7 +6,11 @@ div { margin-top: 20px;
   border-radius: 10px;
 }
 #footer {
-  background-color: brown;
+  position: fixed;
+  left: 50%;
+  bottom: 20px;
+  transform: translate(-50%, -50%);
+  margin: 0 auto;
 }
 .thin-black-border {
   border-color: black;
