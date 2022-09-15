@@ -1,9 +1,9 @@
-div { margin-top: 80px;
-  margin-bottom: 60px;
-  margin-left: 80px; 
-  margin-right: 60px;
-  background-color: rgb(196, 254, 255);
-  border-radius: 10px;
+div { 
+  position: fixed;
+  left: 50%;
+  bottom: 20px;
+  transform: translate(-50%, -50%);
+  margin: 0 auto;
 }
 div.relative {
   position: relative;
