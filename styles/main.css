@@ -5,6 +5,10 @@ div { margin-top: 20px;
   background-color: rgb(196, 254, 255);
   border-radius: 10px;
 }
+div.relative {
+  position: relative;
+  left: 50px;
+}
 #footer {
   position: fixed;
   left: 50%;
