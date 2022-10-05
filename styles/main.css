@@ -68,9 +68,9 @@ p {
 }}
 @media (min-width: 768px) {body 
   { 
-  background-color: goldenrod;
+  background-color: rgb(146, 156, 214);
 }}
 @media (min-width: 1200px) {body 
   { 
-  background-color: rgb(255, 166, 0);
+  background-color: rgb(225, 197, 144);
 }}
