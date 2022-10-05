@@ -54,6 +54,9 @@ p {
 .pink-text {
   color: pink;
 }
+.brown-text {
+  color: rgb(252, 217, 180);
+}
 
 .bisque-background {
   background-color: bisque;
