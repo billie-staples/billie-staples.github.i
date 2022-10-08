@@ -1,0 +1,69 @@
+
+
+
+
+
+
+
+
+
+
+
+
+.header {
+  background-color: #f1f1f1;
+  padding: 20px;
+  text-align: center;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: rgb(128, 251, 255);
+}
+
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.topnav a:hover {
+  background-color: rgb(215, 119, 210);
+  color: rgb(140, 190, 247);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (min-width: 320px) {body 
+  { 
+  background-color: floralwhite;
+}}
+@media (min-width: 768px) {body 
+  { 
+  background-color: rgb(146, 156, 214);
+}}
+@media (min-width: 1200px) {body 
+  { 
+  background-color: rgb(225, 197, 144);
+}}
