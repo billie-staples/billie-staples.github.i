@@ -23,7 +23,8 @@ div.relative {
   border-style: solid;}
 
 .smaller-image { 
-  width: 200px}
+  width: 600px;
+height: 600px;}
 
 body {
   text-align: center;
