@@ -1,4 +1,13 @@
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Arima+Madurai&family=Rakkas&family=Shrikhand&display=swap');
+</style>
 
-font-family: 'Arima Madurai', cursive;
+
 font-family: 'Rakkas', cursive;
 font-family: 'Shrikhand', cursive;
+
+a { 
+margin: 0;
+padding: 0;
+font-family: 'Arima Madurai', cursive;
+}
