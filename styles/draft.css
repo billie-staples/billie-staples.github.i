@@ -1,15 +1,10 @@
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Arima+Madurai&family=Rakkas&family=Shrikhand&display=swap');
-</style>
-
-
-font-family: 'Rakkas', cursive;
-font-family: 'Shrikhand', cursive;
 
 a { 
 margin: 0;
 padding: 0;
-font-family: 'Arima Madurai', cursive;
+font-family: 'Arima Madurai', cursive; font-family: 'Rakkas', cursive;font-family: 'Shrikhand', cursive;
 }
 
 body {
@@ -20,3 +15,48 @@ body {
   background: linear-gradient(rgb(60, 60, 60), rgb(179, 177, 177));
   overflow: hidden;
 }
+
+ul li {
+  list-style: none;
+}
+
+ul li a {
+  position: relative;
+  display: block;
+  color: transparent;
+  -webkit-text-stroke: 1px rgb(233, 240, 134);
+  font-size: 5em;
+  font-weight: 900;
+  text-decoration: none;
+  line-height: 1.2em;
+}
+
+ul li a:hover{
+  color: #fff;
+  -webkit-text-stroke: 1px #000;
+  transition: 0.5s;
+}
+
+ul li a:before , ul li a:after {
+  content: attr(data-text);
+  position:absolute;
+  top: 0;
+  left: 0;
+  transition: 0.5s;
+}
+
+ul a:hover:before {
+  color: rgb(162, 215, 132);
+  z-index: 1;
+  -webkit-text-stroke: 1px #000;
+  transform: translate(10px, -10px);
+}
+
+ul li a:hover:after {
+  color: rgb(26, 102, 111);
+  z-index: 2;
+  -webkit-text-stroke: 1px #000;
+  transform: translate(20px, -20px);
+}
+
+</style>
