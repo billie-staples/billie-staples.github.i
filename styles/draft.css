@@ -57,3 +57,16 @@ ul li a:hover:after {
   -webkit-text-stroke: 1px #000;
   transform: translate(20px, -20px);
 }
+
+@media (min-width: 320px) {body 
+  { 
+  background-color: floralwhite;
+}}
+@media (min-width: 768px) {body 
+  { 
+  background-color: rgb(146, 156, 214);
+}}
+@media (min-width: 1200px) {body 
+  { 
+  background-color: rgb(225, 197, 144);
+}}
