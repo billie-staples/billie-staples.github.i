@@ -14,6 +14,10 @@
 .h2 {
 color: rgb black;
 font-family: 'Arima Madurai';
+font-size: 70px;
+  font-weight: 500;
+  color: #553c9a;
+  border-right: 4px solid #000;
 }
 
 .h1 {
