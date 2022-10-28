@@ -15,7 +15,7 @@
 font-family: 'Arima Madurai';
 }
 
-* { 
+/* * { 
 margin: 0;
 padding: 0;
 font-family: 'Arima Madurai', cursive; font-family: 'Rakkas', cursive;font-family: 'Shrikhand', cursive;
@@ -71,7 +71,7 @@ ul li a:hover:after {
   z-index: 2;
   -webkit-text-stroke: 1px #000;
   transform: translate(20px, -20px);
-}
+} */
 
 @media (min-width: 320px) {body 
   { 
