@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Arima+Madurai&family=Rakkas&family=Shrikhand&display=swap');
 * {
-  margin: 0;
-  padding: 0;
+  margin: 10;
+  padding: 10;
 
 }
 /* .background-image {
@@ -25,6 +25,7 @@ align-items: center;
 
 .img {
   border-radius: 50%;
+  justify-content: center;
 }
 
 /* * { 
