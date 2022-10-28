@@ -4,12 +4,12 @@
   padding: 0;
 
 }
-.background-image {
+/* .background-image {
   background-image: url('./styles/StClair.jpg');
   background-size: contain;
   background-repeat: no-repeat;
   height: 100vh;
-} 
+}  */
 
 .ptag {
 font-family: 'Arima Madurai';
@@ -17,6 +17,12 @@ font-family: 'Arima Madurai';
 
 .h1 {
 font-family: 'Rakkas';
+justify-content: center;
+align-items: center;
+}
+
+.img {
+  border-radius: 50%;
 }
 
 /* * { 
