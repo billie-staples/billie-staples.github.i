@@ -11,11 +11,13 @@
   height: 100vh;
 }  */
 
-.ptag {
+.h2 {
+color: rgb black;
 font-family: 'Arima Madurai';
 }
 
 .h1 {
+color:rosybrown;
 font-family: 'Rakkas';
 justify-content: center;
 align-items: center;
