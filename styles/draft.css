@@ -14,7 +14,7 @@
 .h2 {
 color: rgb black;
 font-family: 'Arima Madurai';
-font-size: 70px;
+font-size: 30px;
 }
 
 .h1 {
@@ -22,7 +22,7 @@ color:rosybrown;
 font-family: 'Rakkas';
 justify-content: center;
 align-items: center;
-font-size: 50px;
+font-size: 20px;
 }
 
 .img {
