@@ -1,4 +1,19 @@
 @import url('https://fonts.googleapis.com/css2?family=Arima+Madurai&family=Rakkas&family=Shrikhand&display=swap');
+* {
+  margin: 0;
+  padding: 0;
+
+}
+.background-image {
+  background-image: url('./styles/StClair.jpg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 100vh;
+} 
+
+.ptag {
+font-family: 'Arima Madurai';
+}
 
 * { 
 margin: 0;
